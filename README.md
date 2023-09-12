@@ -12,10 +12,11 @@ Too bad it links to the [Wayback Machiene](https://web.archive.org/web/201502081
 So I hopped over to [Google scholar](https://scholar.google.com/).
 Do not put in the word "Risk" first, you will get the wrong type of results and it is not fun to sort through everything.
 After a while I came accross a 1997 paper by [Baris Tan](http://home.ku.edu.tr/~btan/PDF/JournalArticles/MMrisk97.pdf).
-Reading the math is hard, so the take away is attack with 2x.
+Reading the math is hard, so the TLDR ir this: Attack with 2x the defender, expect to lose half-ish.
 
 I am not super happy with the results of my review for two reasones:
 
 1. I want more information at low levels.
    The paper looks at 5, 10, 15, ... 30.
 3. I want to see the campain plan.
+   Not looking one or two moves ahead causes a great deal of issues.
